@@ -10,7 +10,7 @@ This project can easlly extends as you wish (This is just the simple and base ve
 
 ### Example
 
-After you copied Calculator folder into your project, Just create a file like main.py copy-paste code below for quick start:
+After you copied Calculator folder into your project, Just create a file like `main.py`, copy-paste code below for quick start:
 
 ```python
 from calculator import Calculator
