@@ -21,6 +21,7 @@ if __name__ == "__main__":
     c = Calculator()
     print(c.direct_calculate("2*(10+5)")) 
 ```
+**A prettier use is shown in `main.py`, of repo directory.**
 
 Here is a example of a custom operator that takes two number and returns a random number between them
 
