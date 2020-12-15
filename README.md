@@ -9,6 +9,19 @@ You can also add your custom operators for the calculator (`See calculator/opera
 This project can easlly extends as you wish (This is just the simple and base version)
 
 ### Example
+
+After you copied Calculator folder into your project, Just create a file like main.py copy-paste code below for quick start:
+
+```python
+from calculator import Calculator
+from random import choice
+
+if __name__ == "__main__":
+    # Show time
+    c = Calculator()
+    print(c.direct_calculate("2*(10+5)")) 
+```
+
 Here is a example of a custom operator that takes two number and returns a random number between them
 
 ```python
